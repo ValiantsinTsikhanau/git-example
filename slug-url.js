@@ -1,1 +1,3 @@
-"FYI" "sdfsfdf"
+function foo(text) {
+    return text
+}
