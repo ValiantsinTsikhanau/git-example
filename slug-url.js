@@ -1,3 +1,3 @@
 function foo(text) {
-    return text
+    return text.toUpperCase()
 }
